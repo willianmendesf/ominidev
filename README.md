@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  [![npm](https://img.shields.io/npm/v/npm?style=plastic)](https://www.npmjs.com/package/@unform/core)<space><space>
+  [![npm](https://img.shields.io/badge/npm-6.14.6-blue)](https://www.npmjs.com/package/@unform/core)<space><space>
   [![Coverage Status](https://coveralls.io/repos/github/willianmendesf/ominidev/badge.svg?branch=master)](https://coveralls.io/github/willianmendesf/ominidev?branch=master)
   [![npm](https://img.shields.io/badge/-ES6-yellow)](#)<space><space>
   [![npm](https://img.shields.io/badge/-node-yellowgreen)](#)<space><space>
