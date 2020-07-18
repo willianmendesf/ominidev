@@ -1,8 +1,16 @@
-![3343086657_621a4ac7-aae2-4017-824e-dc4d1e778316](https://user-images.githubusercontent.com/5796088/87839979-b9124d00-c873-11ea-80e9-483aed3813af.png)
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/5796088/87839979-b9124d00-c873-11ea-80e9-483aed3813af.png" alt="ominidev"/>
+</h1>
 
+<h3 align="center">
+  Um pequeno ambiente de desenvolvimento modularizado para aplicativos escaláveis! 🚀
+</h3>
 
-Um pequeno ambiente de desenvolvimento modularizado para aplicativos escaláveis.
+<div align="center">
 
+  [![npm](https://img.shields.io/npm/v/npm?style=plastic)](https://www.npmjs.com/package/@unform/core)<space><space>
+
+</div>
 
 ## Tecnologias:
 
