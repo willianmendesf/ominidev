@@ -12,7 +12,7 @@
 
 </div>
 
-## Tecnologias:
+<h3> Tecnologias: </h3>
 
 - Pug 
 - Sass
@@ -21,7 +21,7 @@
 - Javascript
 
 
-## Modo de Uso:
+<h3>Modo de Uso: </h3>
 
 Após o download do repositorio rodar os seguintes comandos;
 
@@ -34,7 +34,7 @@ ou
 $ npm i gulp gulp-sass gulp-pug gulp-uglify gulp-autoprefixer gulp-concat browser-sync gulp-babel @babel/core @babel/preset-env
 ```-->
 
-### Comandos
+<h3> Comandos </h3>
 ```
 prod: npm run dev
 ```
