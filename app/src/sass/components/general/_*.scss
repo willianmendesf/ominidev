@@ -1,0 +1,15 @@
+@mixin sombra($color) {
+  box-shadow: 4px 4px 4px 4px $color;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  @include sombra(rgba(0, 0, 0, .1));
+  letter-spacing: .1em;
+}

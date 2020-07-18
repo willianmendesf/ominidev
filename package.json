@@ -1,0 +1,46 @@
+{
+  "name": "ominidev",
+  "version": "2.0.0",
+  "description": "A small modularized development environment for scalable applications.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp default",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "browser-sync": "^2.26.7",
+    "concat": "^1.0.3",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "uglify-es": "^3.3.9"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-transform-async-to-generator": "^7.10.4",
+    "@babel/polyfill": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "del": "^5.1.0"
+  },
+  "keywords": [],
+  "author": "William Mendes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianmendesf/ominidev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willianmendesf/ominidev/issues"
+  },
+  "homepage": "https://github.com/willianmendesf/ominidev#readme"
+}
