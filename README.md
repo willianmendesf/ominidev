@@ -1,6 +1,5 @@
-<h1 align="center">
-  ![3343086657_621a4ac7-aae2-4017-824e-dc4d1e778316](https://user-images.githubusercontent.com/5796088/87839979-b9124d00-c873-11ea-80e9-483aed3813af.png)
-</h1>
+![3343086657_621a4ac7-aae2-4017-824e-dc4d1e778316](https://user-images.githubusercontent.com/5796088/87839979-b9124d00-c873-11ea-80e9-483aed3813af.png)
+
 
 Um pequeno ambiente de desenvolvimento modularizado para aplicativos escaláveis.
 
