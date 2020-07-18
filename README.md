@@ -7,14 +7,13 @@
 </h3>
 
 <div align="center">
-
-  [![npm](https://img.shields.io/badge/npm-6.14.6-blue)](https://www.npmjs.com/package/@unform/core)<space><space>
-  [![Coverage Status](https://coveralls.io/repos/github/willianmendesf/ominidev/badge.svg?branch=master)](https://coveralls.io/github/willianmendesf/ominidev?branch=master)
-  [![npm](https://img.shields.io/badge/-ES6-yellow)](#)<space><space>
-  [![npm](https://img.shields.io/badge/node-10.21.0-yellowgreen)](#)<space><space>
-  [![npm](https://img.shields.io/badge/gulp-4.0.2-red)](#)<space><space>
-  [![npm](https://img.shields.io/badge/gulp-cli-2.3.0-red)](#)<space><space>
-  [![npm](https://img.shields.io/badge/sass-1.26.10-ff69b4)](#)<space><space>
+  
+[![npm](https://img.shields.io/badge/npm-6.14.6-blue)](https://www.npmjs.com/package/@unform/core)<space><space>
+[![npm](https://img.shields.io/badge/Ecmascript-6-yellow)](#)<space><space>
+[![npm](https://img.shields.io/badge/node-10.21.0-yellowgreen)](#)<space><space>
+[![npm](https://img.shields.io/badge/gulp-4.0.2-red)](#)<space><space>
+[![npm](https://img.shields.io/badge/gulpCli-2.3.0-red)](#)<space><space>
+[![npm](https://img.shields.io/badge/sass-1.26.10-ff69b4)](#)<space><space>
   
 
 </div>
@@ -42,7 +41,6 @@ Clone this repo or download and unzip it.
 - Gulp
 - Babel
 - Javascript
-
 
 ### Features
 
