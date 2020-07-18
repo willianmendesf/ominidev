@@ -91,7 +91,9 @@ function watchview () {
 
 //--------------------------------- Tasks -----------------------------------//
 
-gulp.task("clean", clean)
+exports.clean = clean;
+
+// gulp.task("clean", clean)
 gulp.task("sass", compilasass)
 gulp.task("html", compilapug)
 gulp.task("js", compilajs)
@@ -104,4 +106,4 @@ gulp.task("default",
     gulp.parallel("watch", "browserSync")
     )
 )
-gulp.task("build", gulp.series("clean", "sass", "html" ,"js", "plugins"))
+gulp.task("build", gulp.series(clean, "sass", "html" ,"js", "plugins"))

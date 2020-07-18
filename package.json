@@ -16,7 +16,7 @@
     "gulp-csso": "^4.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-uglify": "^3.0.2",
-    "gulp-autoprefixer": "^7.0.1",
+    "gulp-autoprefixer": "^7.0.1"
   },
   "devDependencies": {
     "gulp-cli": "^2.3.0",
@@ -27,7 +27,7 @@
     "browser-sync": "^2.26.7",
     "@babel/polyfill": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
-    "@babel/plugin-transform-async-to-generator": "^7.10.4",
+    "@babel/plugin-transform-async-to-generator": "^7.10.4"
   },
   "keywords": [],
   "author": "William Mendes",
