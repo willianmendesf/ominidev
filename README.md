@@ -10,6 +10,11 @@
 
   [![npm](https://img.shields.io/npm/v/npm?style=plastic)](https://www.npmjs.com/package/@unform/core)<space><space>
   [![Coverage Status](https://coveralls.io/repos/github/willianmendesf/ominidev/badge.svg?branch=master)](https://coveralls.io/github/willianmendesf/ominidev?branch=master)
+  [![npm](https://img.shields.io/badge/-ES6-yellow)](#)<space><space>
+  [![npm](https://img.shields.io/badge/-node-yellowgreen)](#)<space><space>
+  [![npm](https://img.shields.io/badge/-Gulp-red)](#)<space><space>
+  [![npm](https://img.shields.io/badge/-sass-ff69b4)](#)<space><space>
+  
 
 </div>
 
