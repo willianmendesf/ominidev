@@ -9,6 +9,7 @@
 <div align="center">
 
   [![npm](https://img.shields.io/npm/v/npm?style=plastic)](https://www.npmjs.com/package/@unform/core)<space><space>
+  [![Coverage Status](https://coveralls.io/repos/github/willianmendesf/ominidev/badge.svg?branch=master)](https://coveralls.io/github/willianmendesf/ominidev?branch=master)
 
 </div>
 
