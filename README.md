@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Um pequeno ambiente de desenvolvimento modularizado para aplicativos escaláveis! 🚀
+  🚀 Um pequeno ambiente de desenvolvimento! 
 </h3>
 
 <div align="center">
