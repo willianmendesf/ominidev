@@ -34,10 +34,12 @@ ou
 $ npm i gulp gulp-sass gulp-pug gulp-uglify gulp-autoprefixer gulp-concat browser-sync gulp-babel @babel/core @babel/preset-env
 ```-->
 
-<h3> Comandos </h3>
+### Comandos
+
 ```
 prod: npm run dev
 ```
+
 ```
 build: npm run build
 ```
