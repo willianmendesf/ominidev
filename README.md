@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  🚀 Um pequeno ambiente de desenvolvimento! 
+  A small development environment!<space> 🚀
 </h3>
 
 <div align="center">
@@ -12,7 +12,23 @@
 
 </div>
 
-<h3> Tecnologias: </h3>
+### Desenvolvido por:
+
+- https://github.com/willianmendesf
+
+
+### Pre-requisites
+
+* Node 10.21.0 - http://nodejs.org/
+* Gulp [CLI 2.3.0 | Local 4.0.2] - https://gulpjs.com/
+
+
+### Install
+
+Clone this repo or download and unzip it.
+
+
+###  Technologies:
 
 - Pug 
 - Sass
@@ -21,9 +37,20 @@
 - Javascript
 
 
-<h3>Modo de Uso: </h3>
+### Features
 
-Após o download do repositorio rodar os seguintes comandos;
+All files in `src/` are compiled, optimized and copied to `public/` when you run `gulp`.
+
+Currently supported:
+
+- LiveReload of assets HTTPS
+- Sass compilation
+- JS and CSS Minification
+
+
+### Quick Start:
+
+After downloading the repository, run the following commands;
 
 ```
 $ npm i
@@ -34,7 +61,7 @@ ou
 $ npm i gulp gulp-sass gulp-pug gulp-uglify gulp-autoprefixer gulp-concat browser-sync gulp-babel @babel/core @babel/preset-env
 ```-->
 
-### Comandos
+#### Comands
 
 ```
 prod: npm run dev
