@@ -1,4 +1,6 @@
-<h1> OminiDev </h1>
+<h1 align="center">
+  
+</h1>
 
 Um pequeno ambiente de desenvolvimento modularizado para aplicativos escaláveis.
 
