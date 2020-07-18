@@ -91,19 +91,21 @@ function watchview () {
 
 //--------------------------------- Tasks -----------------------------------//
 
-exports.clean = clean;
+exports.js        = compilajs;
+exports.html      = compilapug;
+exports.sass      = compilasass;
+exports.clean     = clean;
+exports.watch     = watchview;
+exports.plugins   = pluginsJS;
+exports.browser   =  browser;
 
-// gulp.task("clean", clean)
-gulp.task("sass", compilasass)
-gulp.task("html", compilapug)
-gulp.task("js", compilajs)
-gulp.task("plugins", pluginsJS);
-gulp.task("browserSync", browser);
-gulp.task("watch", watchview);
-gulp.task("default", 
-  gulp.series(
-    "clean", "sass", "html" ,"js", "plugins", 
-    gulp.parallel("watch", "browserSync")
-    )
-)
-gulp.task("build", gulp.series(clean, "sass", "html" ,"js", "plugins"))
+const run = [
+  this.clean, 
+  this.sass,
+  this.html,
+  this.js,
+  this.plugins
+]
+
+exports.default = gulp.series(run, gulp.parallel(this.watch, this.browser))
+exports.build = gulp.series(run)
