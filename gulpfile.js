@@ -41,7 +41,6 @@ function compilasass () {
     )
     .pipe(
       autoprefixer({
-        browsers: ["last 2 versions"],
         cascade: false,
       })
     )

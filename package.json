@@ -7,6 +7,9 @@
     "dev": "gulp default",
     "build": "gulp build"
   },
+  "browserslist": [
+    "defaults"
+  ],
   "dependencies": {
     "del": "^5.1.0",
     "gulp": "^4.0.2",
@@ -22,6 +25,7 @@
     "gulp-cli": "^2.3.0",
     "gulp-babel": "^8.0.0",
     "@babel/cli": "^7.10.5",
+    "browserslist": "^4.7.2",
     "babel-loader": "^8.1.0",
     "@babel/core": "^7.10.5",
     "browser-sync": "^2.26.7",
