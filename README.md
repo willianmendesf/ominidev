@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/5796088/87839979-b9124d00-c873-11ea-80e9-483aed3813af.png" alt="ominidev"/>
-</h1>
+</div>
 
 <h3 align="center">
   🚀 Um pequeno ambiente de desenvolvimento! 
